@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+langchain_groq
+langchain-community
+Pillow
+requests
+python-docx
+tqdm
+reportlab
+honcho
+
